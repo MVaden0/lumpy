@@ -1,6 +1,6 @@
 {
-    "name": "thirdhalf",
-    "displayName": "ThirdHalf",
+    "name": "lumpy",
+    "displayName": "lumpy",
     "description": "color theme :)",
     "version": "0.0.1",
     "engines": {
@@ -12,7 +12,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Third Half",
+                "label": "lumpy",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Third Half-color-theme.json"
             }
